@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Three decreasing bars suggesting lines of subtitle text, kept
+         within the ~66-72dp adaptive icon safe zone centered in the canvas. -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M32,40h44v9h-44z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M37,53h34v9h-34z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M42,66h24v9h-24z" />
+</vector>

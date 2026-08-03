@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Subtitle Extender</string>
+
+    <string name="select_file_section_title">1. Select Subtitle File</string>
+    <string name="select_file_button">Select SRT File</string>
+    <string name="no_file_selected">No file selected yet.</string>
+
+    <string name="extension_duration_title">2. Extension Duration</string>
+
+    <string name="process_button">Extend Subtitle Duration</string>
+
+    <string name="success_message">Subtitle file successfully created.</string>
+    <string name="error_no_file_selected">Please select an SRT file.</string>
+    <string name="error_invalid_srt">Invalid SRT file.</string>
+    <string name="error_generic">Something went wrong while processing the file. Please try again.</string>
+</resources>

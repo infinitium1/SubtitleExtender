@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!--
+        This app has no private/internal data worth backing up: subtitle
+        files are always read from and written to user-chosen locations via
+        the Storage Access Framework, never to app-private storage.
+    -->
+</full-backup-content>
